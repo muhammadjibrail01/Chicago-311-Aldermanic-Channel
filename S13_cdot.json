@@ -1,0 +1,83 @@
+{
+ "median_hours": {
+  "Alley Pothole Complaint": {
+   "alderman": 472.8999938964844,
+   "digital": 385.70001220703125,
+   "phone": 164.1999969482422,
+   "n_phone": 11930,
+   "n_type": 34631
+  },
+  "Fly Dumping Complaint": {
+   "alderman": 149.89999389648438,
+   "digital": 95.30000305175781,
+   "phone": 142.1999969482422,
+   "n_phone": 28210,
+   "n_type": 55991
+  },
+  "Garbage Cart Maintenance": {
+   "alderman": 576.2000122070312,
+   "digital": 603.2000122070312,
+   "phone": 651.5999755859375,
+   "n_phone": 112262,
+   "n_type": 235303
+  },
+  "Graffiti Removal Request": {
+   "alderman": 22.299999237060547,
+   "digital": 22.600000381469727,
+   "phone": 23.600000381469727,
+   "n_phone": 62629,
+   "n_type": 276090
+  },
+  "Pothole in Street Complaint": {
+   "alderman": 218.89999389648438,
+   "digital": 174.60000610351562,
+   "phone": 38.70000076293945,
+   "n_phone": 84010,
+   "n_type": 180015
+  },
+  "Rodent Baiting/Rat Complaint": {
+   "alderman": 170.5,
+   "digital": 161.8000030517578,
+   "phone": 129.0,
+   "n_phone": 90361,
+   "n_type": 255855
+  },
+  "Sign Repair Request - All Other Signs": {
+   "alderman": 2354.10009765625,
+   "digital": 3134.800048828125,
+   "phone": 0.0,
+   "n_phone": 61838,
+   "n_type": 91182
+  },
+  "Street Light Out Complaint": {
+   "alderman": 140.3000030517578,
+   "digital": 117.5999984741211,
+   "phone": 112.80000305175781,
+   "n_phone": 97277,
+   "n_type": 165656
+  },
+  "Traffic Signal Out Complaint": {
+   "alderman": 5.0,
+   "digital": 5.900000095367432,
+   "phone": 4.400000095367432,
+   "n_phone": 66478,
+   "n_type": 90416
+  }
+ },
+ "cdot_share_of_sample": 24.06455930891495,
+ "cdot_top_types": {
+  "Pothole in Street Complaint": 24.5,
+  "Street Light Out Complaint": 22.5,
+  "Sign Repair Request - All Other Signs": 12.4,
+  "Traffic Signal Out Complaint": 12.3
+ },
+ "ss_share_of_sample": 59.8677787650733,
+ "cdot_excl_potholes": {
+  "n": 520643,
+  "gap": [
+   0.9211848258005721,
+   0.04506311787609681,
+   1.2844016997552118e-32
+  ]
+ }
+}

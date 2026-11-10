@@ -1,0 +1,22 @@
+{
+ "placeholder_groups": 1267,
+ "placeholder_requests": 112674,
+ "rr30_n": 3377469,
+ "rr30_mean": 9.587119822565358,
+ "rr90_n": 3279497,
+ "rr90_mean": 15.1669600551548,
+ "quality_n": 3677012,
+ "canceled_pct": 2.9511462024056487,
+ "unresolved_pct": 0.7570549130652824,
+ "main_paper": {
+  "placeholder_groups": 1267,
+  "placeholder_requests": 112674,
+  "rr30_n": 3377469,
+  "rr30_mean": 9.55,
+  "rr90_n": 3279497,
+  "rr90_mean": 15.14,
+  "quality_n": 3677012,
+  "canceled_pct": 2.95,
+  "unresolved_pct": 0.76
+ }
+}
